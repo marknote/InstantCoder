@@ -13,7 +13,7 @@ You are the best developer in the world and you would like to code anytime, anyw
 
 ## Privacy
 
-Check [Privacy Policy here](privacy)
+Check [Privacy Policy](privacy)
 
 ## Get it
 [InstantCoder is available from app store](https://itunes.apple.com/app/instantcoder/id1067517686)
