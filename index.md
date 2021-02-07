@@ -11,6 +11,9 @@ You are the best developer in the world and you would like to code anytime, anyw
 - Upload code and resources from browser through HTTP;
 - Sync with the Cloud services;
 
+## Privacy
+
+Check [Privacy Policy here](privacy)
 
 ## Get it
 [InstantCoder is available from app store](https://itunes.apple.com/app/instantcoder/id1067517686)
