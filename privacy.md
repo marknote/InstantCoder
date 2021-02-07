@@ -10,7 +10,11 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 ## Information Collection and Use   
 Personal Content. Your content, e.g., your files, is not saved on our servers nor do we have access to this data. This data is saved as human-readable text files locally on iOS device.
-If you choose to sync your data with Cloud service like Google Drive or Dropbox.   
+If you choose to sync your data with Cloud service like Google Drive or Dropbox, your may need to check the related privacy policies:
+- [Google Drive](https://www.google.com/drive/terms-of-service/)
+- [DropBox](https://www.dropbox.com/privacy)
+
+Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
 
 ## Log Data   
 I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your devices called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.   
