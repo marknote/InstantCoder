@@ -1,4 +1,4 @@
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+<script src="{{ '/assets/js/jquery.min.js' | relative_url }}"></script>
 
 {% if site.ios_app_id %}
 
@@ -58,6 +58,9 @@ $(function() {
             var $appStoreLink = $(".appStoreLink");
             if ($.trim($appStoreLink.attr('href')).length == 0) {
                 $($appStoreLink).attr("href", appInfo.trackViewUrl);
+                if(navigator.language === 'zh-CN' ||navigator.languages.indexOf('zh-CN') >= 0) {
+                    $($appStoreLink).attr("href", appInfo.trackViewUrl.replace('/us/app/','/cn/app/'));
+                }   
             }
 
             console.info(appInfo);
