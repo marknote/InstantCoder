@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Frequently Asked Question
+title: FAQ
 include_in_header: true
 ---
 
@@ -9,4 +9,5 @@ include_in_header: true
 The file system of InstantCoder is open and can be viewed by other apps, like Apple's Files app.
 There are many ways you can add images / files into InstantCoder. 
 For example, in iOS Photos app, choose a photo -> Share -> Save to Files -> On my iPhone/iPad -> InstantCoder
+![](/InstantCoder/assets/images/import-image.png)
 Then you will be able to see the newly added image in InstantCoder
