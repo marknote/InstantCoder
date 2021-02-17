@@ -11,7 +11,7 @@ presskit_download_link                    :                                     
 
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : InstantCoder                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_price                                 : Free wityh In-App Purchases                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_price                                 : Free with In-App Purchases                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : You are the best developer in the world and you would like to code anytime, anywhere. InstantCoder makes it possible for you to edit and review code on your lovely iPhone and iPad.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
