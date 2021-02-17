@@ -1,7 +1,7 @@
 ---
 layout: page
 title: User Defined Shortcuts
-include_in_header: true
+include_in_header: false
 ---
 
 Click the cog icon on the top right (or using shortcut cmd + ,) to open the editor options view.
