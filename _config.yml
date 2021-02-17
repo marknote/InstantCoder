@@ -126,4 +126,5 @@ collections:
     permalink: /:path/
 
 # Markdown rendering
-markdown: kramdown
+# markdown: kramdown
+markdown: redcarpet
