@@ -12,4 +12,4 @@ The following shortcuts are supported on the Editor UI:
 - `⌘b`: show/hide browser
 - `⌘i`: enter/exit immersive mode
 
-The app also support [User Defined Shortcuts](../user-defined-shortcuts)
+The app also support [User Defined Shortcuts](../user-defined-shortcuts/)
