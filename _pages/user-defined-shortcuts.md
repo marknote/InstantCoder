@@ -21,7 +21,7 @@ for example,
 will define a shortcut triggered by `CTRL + 1` (pressing the `CTRL` key and `1` key together), and it will insert `aaa` before selected text and `bbb` after the selected text
 - The following variables can be used in the shortcut defintions:
    - {% raw %}{{filename}} {% endraw %}, currnet file name;
-   - `{{date}}`, current date;
+   - {% raw %}{{date}}{% endraw %}, current date;
 
 
 
