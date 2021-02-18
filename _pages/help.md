@@ -13,13 +13,18 @@ All mainstream programming languages: css, js, html, swift, objective-c, c/c++, 
 InstantCoder shared the same markdown parser engine with [marknote](https://marknoteapp.com/) which supports not only the full
 [Github flavored markdown featuers](https://marknoteapp.com/doc/Markdown%20Quick%20Reference) but also [extended markdown syntax](https://marknoteapp.com/doc/extended%20markdown) 
 
-### Shortcuts
+### Keyboard shortcuts
 
 The following shortcuts are supported on the Editor UI:   
 - `⌘,` : show editor preferences
 - `⌘f`: show/hide the "find/replace" box
 - `⌘b`: show/hide browser
 - `⌘i`: enter/exit immersive mode
+- `⌘l`: show/hide logs viewer
+
+Tips: 
+- you may need an external keyboard connected to your iPad /iphone to use shortcuts;
+- on iOS, press and hold the Command ⌘ key will list all the shortcuts supported;
 
 The app also supports [User Defined Shortcuts](../user-defined-shortcuts/)
 
