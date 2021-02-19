@@ -43,7 +43,7 @@ features                                  :
     fontawesome_icon_name                 : clock
 
   - title                                 : Realtime preview
-    description                           : Code and immediately see the effect
+    description                           : Code and see the effect in [realtime](https://marknote.github.io/InstantCoder/realtime/)
     fontawesome_icon_name                 : adjust
   
   - title                                 : Open file system
