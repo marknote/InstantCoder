@@ -9,6 +9,9 @@ include_in_header: true
 ### Syntax highlighting
 All mainstream programming languages: css, js, html, swift, objective-c, c/c++, java, python, R, etc
 
+### Preview realtime
+Code and see the effect in [realtime](/InstantCoder/realtime/)
+
 ### Markdow support
 InstantCoder shared the same markdown parser engine with [marknote](https://marknoteapp.com/) which supports not only the full
 [Github flavored markdown featuers](https://marknoteapp.com/doc/Markdown%20Quick%20Reference) but also [extended markdown syntax](https://marknoteapp.com/doc/extended%20markdown) 
