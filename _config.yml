@@ -43,7 +43,7 @@ features                                  :
     fontawesome_icon_name                 : clock
 
   - title                                 : Realtime preview
-    description                           : Code and see the effect in [realtime](/InstantCoder/realtime/)
+    description                           : Code and see the effect immediately
     fontawesome_icon_name                 : adjust
   
   - title                                 : Open file system
