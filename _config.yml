@@ -37,6 +37,10 @@ features                                  :
   - title                                 : Syntax highlighting
     description                           : "All mainstream programming languages: css, js, html, swift, objective-c, c/c++, java, python, R, etc"
     fontawesome_icon_name                 : magic
+
+  - title                                 : Run your code snippet
+    description                           : "You can run code snippets in js, java, r, python 3, c/c++, lua and ruby and see the result"
+    fontawesome_icon_name                 : plane
     
   - title                                 : Autosave changes
     description                           : You focus on coding and the app tracks the changes
@@ -50,8 +54,6 @@ features                                  :
     description                           : You can open and view your data in other apps
     fontawesome_icon_name                 : star
 
-
-
   - title                                 : Web uploader
     description                           : Upload and download files with HTTP directly to and from your devices.
     fontawesome_icon_name                 : mobile
@@ -60,6 +62,9 @@ features                                  :
     description                           : Sync your source code among multiple devices via the Cloud service you choose
     fontawesome_icon_name                 : sync
 
+  - title                                 : Terminal and SSH
+    description                           : A terminal is provided with minimal set of commands, include SSH enables logging to a remote machine
+    fontawesome_icon_name                 : terminal
 
 
 
@@ -128,3 +133,5 @@ collections:
 # Markdown rendering
 # markdown: kramdown
 markdown: redcarpet
+redcarpet:
+      extensions: [with_toc_data]

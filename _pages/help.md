@@ -3,7 +3,7 @@ layout: page
 title: Help
 include_in_header: true
 ---
-
+<div id="toc"></div>
 ## Features
 
 ### Syntax highlighting

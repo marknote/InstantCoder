@@ -63,64 +63,30 @@
 	</nav>
 </header>
             <article class="page markdown-body">
-                <h2 id="220">2.20</h2>
-<p>Mar 1, 2021</p>
+                <p>Click the cog icon on the top right (or using shortcut cmd + ,) to open the editor options view.
+Then in the “Text insertion shortcust” text box, we can edit the content to define shortcuts.
+Rules:</p>
 <ul>
-  <li>terminal with basic shell commands;</li>
-  <li>add loading progress for browser;</li>
-  <li>show modified time for files;</li>
+  <li>Each shortcut defintion will be one line of text;</li>
+  <li>Each shortcut should be in the format below:</li>
 </ul>
 
-<h2 id="210">2.10</h2>
-<p>Feb 18, 2021</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>{number}, {text to insert before the cursor}, {optional text to insert after the cursor}, {name of the shortcut}
+</code></pre></div></div>
+<p>for example,</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>1, aaa, bbb, test
+</code></pre></div></div>
+<p>will define a shortcut triggered by <code class="language-plaintext highlighter-rouge">CTRL + 1</code> (pressing the <code class="language-plaintext highlighter-rouge">CTRL</code> key and <code class="language-plaintext highlighter-rouge">1</code> key together), and it will insert <code class="language-plaintext highlighter-rouge">aaa</code> before selected text and <code class="language-plaintext highlighter-rouge">bbb</code> after the selected text</p>
 <ul>
-  <li>User defined shortcuts;</li>
-  <li>Export PDF;</li>
-  <li>Export HTML;</li>
-  <li>Share as email;</li>
-  <li>Web logs viewer;</li>
+  <li>The following variables can be used in the shortcut defintions:
+    <ul>
+      <li>{{filename}} , currnet file name;</li>
+      <li>{{date}}, current date;</li>
+    </ul>
+  </li>
 </ul>
 
-<h2 id="20">2.0</h2>
-<p>Feb 12, 2021</p>
-<ul>
-  <li>Automatically switch between dark mode and light mode;</li>
-  <li>Improve code highlighting;</li>
-  <li>Add token authentication to the internal Web server;</li>
-  <li>Find/replace;</li>
-  <li>Support to sync source code via Dropbox;</li>
-</ul>
-
-<h2 id="198">1.98</h2>
-<p>Nov 13, 2017</p>
-<ul>
-  <li>Support to extract zip file as folder;</li>
-  <li>Improve syntax highlighting for python;</li>
-  <li>Performance improvement;</li>
-</ul>
-
-<h2 id="19">1.9</h2>
-<p>Apr 11, 2017</p>
-<ul>
-  <li>Move file/folder;</li>
-  <li>Add options in preference;</li>
-  <li>Improve syntax highlighting;</li>
-  <li>Add “hide” button to smart keyboard;</li>
-</ul>
-
-<h2 id="18">1.8</h2>
-<p>Feb 23, 2017</p>
-<ul>
-  <li>Clone git/github repo with one click;</li>
-  <li>Add syntax highlighting for more programming languages;</li>
-  <li>Dark theme;</li>
-</ul>
-
-<h2 id="10">1.0</h2>
-<p>Jan 22, 2016</p>
-<ul>
-  <li>Initial release;</li>
-</ul>
 
             </article>
         </div>
